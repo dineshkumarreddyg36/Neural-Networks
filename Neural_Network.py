@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 13 18:49:18 2022
-
-@author: azanp
-"""
 #Import required libraries
 from os.path import exists
 import numpy as np
